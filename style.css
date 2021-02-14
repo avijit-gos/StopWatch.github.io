@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: #525252;
+    background: -webkit-linear-gradient(to right, #3d72b4, #525252);
+    background: linear-gradient(to right, #3d72b4, #525252);
+	
+}
+#box {
+	width: 95%;
+	height: 40vh;
+	margin: 130px auto;
+	background-color: #0002;
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	box-sizing: border-box;
+	box-shadow: 3px -5px 250px #95a5a6
+}
+#box .header {
+	font-size: 42px;
+	font-family: sans-serif;
+	padding: 25px 5px;
+}
+#startStop {
+	background-color: #6ab04c;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 15px;
+}
